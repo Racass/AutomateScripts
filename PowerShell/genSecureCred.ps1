@@ -1,0 +1,1 @@
+(Get-Credential).password | ConvertFrom-SecureString > C:\ServOn\MailPW.txt
